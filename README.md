@@ -19,8 +19,7 @@ This project follows a structured approach:
 To explore the project:
 
 1. **Clone**: Clone this repository to your local machine using `git clone https://github.com/your-username/airbnb-ratings-prediction.git`.
-2. **Install Dependencies**: Install required packages using `pip install -r requirements.txt`.
-3. **Explore**: Open `airbnb_ratings_prediction.ipynb` Jupyter Notebook for detailed code, analysis, and insights.
+2. **Explore**: Open `airbnb_ratings_prediction.ipynb` Jupyter Notebook for detailed code, analysis, and insights.
 
 ## Conclusion 🎉
 While the project provides predictive models for Airbnb ratings, it also highlights the need for additional features like location and amenities. The journey showcases model strengths and weaknesses, offering a foundation for further refinement and feature engineering.
