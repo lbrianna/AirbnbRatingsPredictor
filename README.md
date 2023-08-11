@@ -5,7 +5,7 @@ Welcome to the Airbnb Ratings Prediction Model repository! 🚀
 ## Project Overview 📊
 This repository presents an Airbnb ratings prediction model developed to forecast guest ratings based on various features.
 
-## Lab 8: Project Roadmap 🗺️
+## Project Roadmap 🗺️
 This project follows a structured approach:
 
 1. **Data Exploration**: Load the Airbnb dataset into a Pandas DataFrame for analysis.
